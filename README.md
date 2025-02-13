@@ -33,14 +33,14 @@ Welcome to my GitHub profile! I'm a **Front-End Developer** passionate about cra
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mansiagar&show_icons=true&theme=default" alt="Mansi's GitHub Stats" width="48%"/>
-  <img src="https://streak-stats.demolab.com?user=mansiagar&theme=default" alt="GitHub Streak" width="48%"/>
+ 
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansiagar&layout=compact&theme=default" alt="Top Languages" width="48%"/>
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mansiagar&theme=radical" alt="GitHub Calendar" width="100%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mansiagar&theme=default" alt="GitHub Calendar" width="100%"/>
 </p>
 
 ---
